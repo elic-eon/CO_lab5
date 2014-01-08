@@ -45,7 +45,7 @@ void simulate(int cache_size, int block_size, int flag_DI, int& hit, int& miss, 
 
 	while(fscanf(fp,"%x",&x)!=EOF){
     acc++;
-		cout<<hex<<x<<" ";
+		//cout<<hex<<x<<" ";
 		index=(x>>offset_bit)&(line-1);
 		tag=x>>(index_bit+offset_bit);
 		if(cache[index].v && cache[index].tag==tag){
@@ -74,8 +74,9 @@ int main(){
   int acc;
   double miss_rate;
 
-  cout << "Input: ";
-  while (cin >> cache_size >> block_size >> type) {
+  while (cout << "Cache size: " && cin >> cache_size &&
+      cout << "Block size: " && cin >> block_size &&
+      cout << "1 for DCACHE, 0 for ICACHE: " && cin >> type) {
     hit = 0;
     miss = 0;
     acc = 0;
@@ -88,7 +89,5 @@ int main(){
     cout << "hit: " << hit << endl;
     miss_rate = (double)miss/(double)(hit+miss);
     cout << "miss rate: " << 100*miss_rate << endl << endl;
-
-    cout << "Input: ";
   }
 }

@@ -1,0 +1,289 @@
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 126
+Cache size: 64 bits
+Block size: 4 bits
+miss: 46
+hit: 80
+miss rate: 36.5079
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 126
+Cache size: 64 bits
+Block size: 8 bits
+miss: 38
+hit: 88
+miss rate: 30.1587
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:4
+
+Access: 126
+Cache size: 64 bits
+Block size: 16 bits
+miss: 50
+hit: 76
+miss rate: 39.6825
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:2
+
+Access: 126
+Cache size: 64 bits
+Block size: 32 bits
+miss: 62
+hit: 64
+miss rate: 49.2063
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
+
+Access: 126
+Cache size: 128 bits
+Block size: 4 bits
+miss: 27
+hit: 99
+miss rate: 21.4286
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 126
+Cache size: 128 bits
+Block size: 8 bits
+miss: 14
+hit: 112
+miss rate: 11.1111
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 126
+Cache size: 128 bits
+Block size: 16 bits
+miss: 7
+hit: 119
+miss rate: 5.55556
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:4
+
+Access: 126
+Cache size: 128 bits
+Block size: 32 bits
+miss: 4
+hit: 122
+miss rate: 3.1746
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:64
+
+Access: 126
+Cache size: 256 bits
+Block size: 4 bits
+miss: 27
+hit: 99
+miss rate: 21.4286
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
+
+Access: 126
+Cache size: 256 bits
+Block size: 8 bits
+miss: 14
+hit: 112
+miss rate: 11.1111
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 126
+Cache size: 256 bits
+Block size: 16 bits
+miss: 7
+hit: 119
+miss rate: 5.55556
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 126
+Cache size: 256 bits
+Block size: 32 bits
+miss: 4
+hit: 122
+miss rate: 3.1746
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:128
+
+Access: 126
+Cache size: 512 bits
+Block size: 4 bits
+miss: 27
+hit: 99
+miss rate: 21.4286
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:64
+
+Access: 126
+Cache size: 512 bits
+Block size: 8 bits
+miss: 14
+hit: 112
+miss rate: 11.1111
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
+
+Access: 126
+Cache size: 512 bits
+Block size: 16 bits
+miss: 7
+hit: 119
+miss rate: 5.55556
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 126
+Cache size: 512 bits
+Block size: 32 bits
+miss: 4
+hit: 122
+miss rate: 3.1746
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 737
+Cache size: 64 bits
+Block size: 4 bits
+miss: 531
+hit: 206
+miss rate: 72.0488
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 737
+Cache size: 64 bits
+Block size: 8 bits
+miss: 298
+hit: 439
+miss rate: 40.4342
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:4
+
+Access: 737
+Cache size: 64 bits
+Block size: 16 bits
+miss: 157
+hit: 580
+miss rate: 21.3026
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:2
+
+Access: 737
+Cache size: 64 bits
+Block size: 32 bits
+miss: 116
+hit: 621
+miss rate: 15.7395
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
+
+Access: 737
+Cache size: 128 bits
+Block size: 4 bits
+miss: 68
+hit: 669
+miss rate: 9.22659
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 737
+Cache size: 128 bits
+Block size: 8 bits
+miss: 37
+hit: 700
+miss rate: 5.02035
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 737
+Cache size: 128 bits
+Block size: 16 bits
+miss: 21
+hit: 716
+miss rate: 2.84939
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:4
+
+Access: 737
+Cache size: 128 bits
+Block size: 32 bits
+miss: 13
+hit: 724
+miss rate: 1.76391
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:64
+
+Access: 737
+Cache size: 256 bits
+Block size: 4 bits
+miss: 63
+hit: 674
+miss rate: 8.54817
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
+
+Access: 737
+Cache size: 256 bits
+Block size: 8 bits
+miss: 32
+hit: 705
+miss rate: 4.34193
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 737
+Cache size: 256 bits
+Block size: 16 bits
+miss: 16
+hit: 721
+miss rate: 2.17096
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 737
+Cache size: 256 bits
+Block size: 32 bits
+miss: 8
+hit: 729
+miss rate: 1.08548
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:128
+
+Access: 737
+Cache size: 512 bits
+Block size: 4 bits
+miss: 63
+hit: 674
+miss rate: 8.54817
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:64
+
+Access: 737
+Cache size: 512 bits
+Block size: 8 bits
+miss: 32
+hit: 705
+miss rate: 4.34193
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
+
+Access: 737
+Cache size: 512 bits
+Block size: 16 bits
+miss: 16
+hit: 721
+miss rate: 2.17096
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
+
+Access: 737
+Cache size: 512 bits
+Block size: 32 bits
+miss: 8
+hit: 729
+miss rate: 1.08548
+
+Cache size: 
