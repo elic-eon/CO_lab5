@@ -57,7 +57,7 @@ void simulate(int cache_size, int block_size, int flag_DI, int& hit, int& miss, 
 		index=(x>>offset_bit)&(line-1);
 		tag=x>>(index_bit+offset_bit);
 
-    int index_way = associ+1;
+    int index_way = associ;
     for (int i = 0; i < associ; i++){
       if (cache[i][index].v && cache[i][index].tag == tag)
       {
@@ -65,7 +65,7 @@ void simulate(int cache_size, int block_size, int flag_DI, int& hit, int& miss, 
       }
     }
 
-    if (index_way <= associ){
+    if (index_way < associ){
       cache[index_way][index].priority = acc;
       hit++;
     }
@@ -81,7 +81,7 @@ void simulate(int cache_size, int block_size, int flag_DI, int& hit, int& miss, 
           lru = i+1;
           break;
         }
-        else if (cache[i][index].priority < cache[i+1][index].priority)
+        else if (cache[i][index].priority > cache[i+1][index].priority)
           lru = i+1;
       }
       cache[lru][index].v = true;
@@ -97,7 +97,6 @@ void simulate(int cache_size, int block_size, int flag_DI, int& hit, int& miss, 
 
 int main(){
 	// Let us simulate 4KB cache with 16B blocks
-
   int type = 0;
   int cache_size = 0;
   int block_size = 0;

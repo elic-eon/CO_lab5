@@ -65,7 +65,6 @@ void simulate(int cache_size, int block_size, int flag_DI, int& hit, int& miss, 
 
 int main(){
 	// Let us simulate 4KB cache with 16B blocks
-
   int type = 0;
   int cache_size = 0;
   int block_size = 0;
