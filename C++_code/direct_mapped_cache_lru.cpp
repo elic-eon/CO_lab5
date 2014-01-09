@@ -81,7 +81,7 @@ void simulate(int cache_size, int block_size, int flag_DI, int& hit, int& miss, 
           lru = i+1;
           break;
         }
-        else if (cache[i][index].priority > cache[i+1][index].priority)
+        else if (cache[lru][index].priority > cache[i+1][index].priority)
           lru = i+1;
       }
       cache[lru][index].v = true;

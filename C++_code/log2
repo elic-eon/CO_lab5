@@ -24,9 +24,9 @@ cache way:4
 Access: 6451
 Cache size: 1024 bits
 Block size: 32 bits
-miss: 570
-hit: 5881
-miss rate: 8.83584
+miss: 528
+hit: 5923
+miss rate: 8.18478
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:4
 cache way:8
@@ -34,9 +34,9 @@ cache way:8
 Access: 6451
 Cache size: 1024 bits
 Block size: 32 bits
-miss: 574
-hit: 5877
-miss rate: 8.89785
+miss: 483
+hit: 5968
+miss rate: 7.48721
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:64
 cache way:1
@@ -64,9 +64,9 @@ cache way:4
 Access: 6451
 Cache size: 2048 bits
 Block size: 32 bits
-miss: 351
-hit: 6100
-miss rate: 5.44102
+miss: 330
+hit: 6121
+miss rate: 5.11549
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:8
 cache way:8
@@ -74,9 +74,9 @@ cache way:8
 Access: 6451
 Cache size: 2048 bits
 Block size: 32 bits
-miss: 363
-hit: 6088
-miss rate: 5.62703
+miss: 329
+hit: 6122
+miss rate: 5.09998
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:128
 cache way:1
@@ -104,9 +104,9 @@ cache way:4
 Access: 6451
 Cache size: 4096 bits
 Block size: 32 bits
-miss: 274
-hit: 6177
-miss rate: 4.2474
+miss: 265
+hit: 6186
+miss rate: 4.10789
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:16
 cache way:8
@@ -114,9 +114,9 @@ cache way:8
 Access: 6451
 Cache size: 4096 bits
 Block size: 32 bits
-miss: 251
-hit: 6200
-miss rate: 3.89087
+miss: 246
+hit: 6205
+miss rate: 3.81336
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:256
 cache way:1
@@ -144,9 +144,9 @@ cache way:4
 Access: 6451
 Cache size: 8192 bits
 Block size: 32 bits
-miss: 247
-hit: 6204
-miss rate: 3.82886
+miss: 248
+hit: 6203
+miss rate: 3.84437
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:32
 cache way:8
@@ -154,9 +154,89 @@ cache way:8
 Access: 6451
 Cache size: 8192 bits
 Block size: 32 bits
-miss: 230
-hit: 6221
-miss rate: 3.56534
+miss: 229
+hit: 6222
+miss rate: 3.54984
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:512
+cache way:1
+
+Access: 6451
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 276
+hit: 6175
+miss rate: 4.27841
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:256
+cache way:2
+
+Access: 6451
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 232
+hit: 6219
+miss rate: 3.59634
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:128
+cache way:4
+
+Access: 6451
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 229
+hit: 6222
+miss rate: 3.54984
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:64
+cache way:8
+
+Access: 6451
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 226
+hit: 6225
+miss rate: 3.50333
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:1024
+cache way:1
+
+Access: 6451
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 242
+hit: 6209
+miss rate: 3.75136
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:512
+cache way:2
+
+Access: 6451
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 229
+hit: 6222
+miss rate: 3.54984
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:256
+cache way:4
+
+Access: 6451
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 226
+hit: 6225
+miss rate: 3.50333
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:128
+cache way:8
+
+Access: 6451
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 226
+hit: 6225
+miss rate: 3.50333
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:32
 cache way:1
@@ -184,9 +264,9 @@ cache way:4
 Access: 69440
 Cache size: 1024 bits
 Block size: 32 bits
-miss: 3678
-hit: 65762
-miss rate: 5.29666
+miss: 3627
+hit: 65813
+miss rate: 5.22321
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:4
 cache way:8
@@ -194,9 +274,9 @@ cache way:8
 Access: 69440
 Cache size: 1024 bits
 Block size: 32 bits
-miss: 3750
-hit: 65690
-miss rate: 5.40035
+miss: 3603
+hit: 65837
+miss rate: 5.18865
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:64
 cache way:1
@@ -224,9 +304,9 @@ cache way:4
 Access: 69440
 Cache size: 2048 bits
 Block size: 32 bits
-miss: 3290
-hit: 66150
-miss rate: 4.7379
+miss: 3254
+hit: 66186
+miss rate: 4.68606
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:8
 cache way:8
@@ -234,9 +314,9 @@ cache way:8
 Access: 69440
 Cache size: 2048 bits
 Block size: 32 bits
-miss: 3337
-hit: 66103
-miss rate: 4.80559
+miss: 3227
+hit: 66213
+miss rate: 4.64718
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:128
 cache way:1
@@ -264,9 +344,9 @@ cache way:4
 Access: 69440
 Cache size: 4096 bits
 Block size: 32 bits
-miss: 3077
-hit: 66363
-miss rate: 4.43116
+miss: 3044
+hit: 66396
+miss rate: 4.38364
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:16
 cache way:8
@@ -274,9 +354,9 @@ cache way:8
 Access: 69440
 Cache size: 4096 bits
 Block size: 32 bits
-miss: 3116
-hit: 66324
-miss rate: 4.48733
+miss: 3047
+hit: 66393
+miss rate: 4.38796
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:256
 cache way:1
@@ -304,9 +384,9 @@ cache way:4
 Access: 69440
 Cache size: 8192 bits
 Block size: 32 bits
-miss: 2502
-hit: 66938
-miss rate: 3.60311
+miss: 2349
+hit: 67091
+miss rate: 3.38278
 
 Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:32
 cache way:8
@@ -314,8 +394,88 @@ cache way:8
 Access: 69440
 Cache size: 8192 bits
 Block size: 32 bits
-miss: 2668
-hit: 66772
-miss rate: 3.84217
+miss: 2461
+hit: 66979
+miss rate: 3.54407
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:512
+cache way:1
+
+Access: 69440
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 5348
+hit: 64092
+miss rate: 7.70161
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:256
+cache way:2
+
+Access: 69440
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 1383
+hit: 68057
+miss rate: 1.99165
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:128
+cache way:4
+
+Access: 69440
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 1474
+hit: 67966
+miss rate: 2.1227
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:64
+cache way:8
+
+Access: 69440
+Cache size: 16384 bits
+Block size: 32 bits
+miss: 1561
+hit: 67879
+miss rate: 2.24798
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:1024
+cache way:1
+
+Access: 69440
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 1177
+hit: 68263
+miss rate: 1.69499
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:512
+cache way:2
+
+Access: 69440
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 1009
+hit: 68431
+miss rate: 1.45305
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:256
+cache way:4
+
+Access: 69440
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 978
+hit: 68462
+miss rate: 1.40841
+
+Cache size: Block size: 1 for LU, 0 for RADIX: Way: cache line:128
+cache way:8
+
+Access: 69440
+Cache size: 32768 bits
+Block size: 32 bits
+miss: 967
+hit: 68473
+miss rate: 1.39257
 
 Cache size: 

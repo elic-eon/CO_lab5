@@ -34,6 +34,15 @@ miss: 62
 hit: 64
 miss rate: 49.2063
 
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:1
+
+Access: 126
+Cache size: 64 bits
+Block size: 64 bits
+miss: 56
+hit: 70
+miss rate: 44.4444
+
 Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
 
 Access: 126
@@ -70,6 +79,15 @@ miss: 4
 hit: 122
 miss rate: 3.1746
 
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:2
+
+Access: 126
+Cache size: 128 bits
+Block size: 64 bits
+miss: 2
+hit: 124
+miss rate: 1.5873
+
 Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:64
 
 Access: 126
@@ -106,6 +124,15 @@ miss: 4
 hit: 122
 miss rate: 3.1746
 
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:4
+
+Access: 126
+Cache size: 256 bits
+Block size: 64 bits
+miss: 2
+hit: 124
+miss rate: 1.5873
+
 Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:128
 
 Access: 126
@@ -141,6 +168,15 @@ Block size: 32 bits
 miss: 4
 hit: 122
 miss rate: 3.1746
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 126
+Cache size: 512 bits
+Block size: 64 bits
+miss: 2
+hit: 124
+miss rate: 1.5873
 
 Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:16
 
@@ -178,6 +214,15 @@ miss: 116
 hit: 621
 miss rate: 15.7395
 
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:1
+
+Access: 737
+Cache size: 64 bits
+Block size: 64 bits
+miss: 83
+hit: 654
+miss rate: 11.2619
+
 Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:32
 
 Access: 737
@@ -214,6 +259,15 @@ miss: 13
 hit: 724
 miss rate: 1.76391
 
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:2
+
+Access: 737
+Cache size: 128 bits
+Block size: 64 bits
+miss: 9
+hit: 728
+miss rate: 1.22117
+
 Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:64
 
 Access: 737
@@ -250,6 +304,15 @@ miss: 8
 hit: 729
 miss rate: 1.08548
 
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:4
+
+Access: 737
+Cache size: 256 bits
+Block size: 64 bits
+miss: 4
+hit: 733
+miss rate: 0.542741
+
 Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:128
 
 Access: 737
@@ -285,5 +348,14 @@ Block size: 32 bits
 miss: 8
 hit: 729
 miss rate: 1.08548
+
+Cache size: Block size: 1 for DCACHE, 0 for ICACHE: cache line:8
+
+Access: 737
+Cache size: 512 bits
+Block size: 64 bits
+miss: 4
+hit: 733
+miss rate: 0.542741
 
 Cache size: 
